@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authrerify",
+        "uuid": 24696686,
+        "checksum": "cvdeke"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
